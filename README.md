@@ -1,1 +1,1 @@
-## Me Make It Auth Module
+## MMI Auth Module
