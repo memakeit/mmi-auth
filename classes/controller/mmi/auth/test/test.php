@@ -7,7 +7,7 @@
  * @copyright	(c) 2010 Me Make It
  * @license		http://www.memakeit.com/license
  */
-class Controller_Test_Auth_Test extends Controller
+class Controller_MMI_Auth_Test_Test extends Controller
 {
 	/**
 	 * @var boolean turn debugging on?
@@ -23,4 +23,4 @@ class Controller_Test_Auth_Test extends Controller
 	{
 		MMI_Debug::dump(date('Y-m-d G:i:s'), 'date');
 	}
-} // End Controller_Test_Auth_Test
+} // End Controller_MMI_Auth_Test_Test
